@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mapme</string>
+    <string name="start_tracking">Démarrer</string>
+    <string name="stop_tracking">Arrêter</string>
+    <string name="request_position">Position maintenant</string>
+    <string name="phone1">Numéro 1</string>
+    <string name="phone2">Numéro 2</string>
+    <string name="tracking_active">✅ Suivi actif</string>
+    <string name="tracking_stopped">⏸ Suivi arrêté</string>
+</resources>
